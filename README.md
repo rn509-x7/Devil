@@ -7,8 +7,8 @@
 
 Evil Devill (Devil FaceBook Hacking Tool)
                 
-**username** `hacker`
-**password** `wasii`
+**username** `rn509x7`
+**password** `coding`
 <p align="center">
   <a href="http://mocrz.blogspot.com/">
     <img src="https://img.shields.io/badge/RN 509 X 7-Mocrz-lightgrey">
@@ -133,3 +133,4 @@ Usage of the Devil Framework for attacking targets without prior mutual consent 
 It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
 Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 ```
+
