@@ -11,11 +11,8 @@ RN 509 X7 (Devil FaceBook Hacking Tool)
 **password** `wasii`
 <p align="center">
   <a href="http://mocrz.blogspot.com/">
-    <img src="https://img.shields.io/badge/EvilDevil-Mocrz-lightgrey">
+    <img src="https://img.shields.io/badge/rn509x7-Mocrz-lightgrey">
   </a> 
-  <a href="https://github.com/evildevill/Devil/releases">
-    <img src="https://img.shields.io/badge/release-v3.0.0-blue">
-  </a>
   <a href="https://wikipedia.org/wiki/Shell_script">
     <img src="https://img.shields.io/badge/language-shell-green.svg">
  </a>
@@ -30,7 +27,7 @@ RN 509 X7 (Devil FaceBook Hacking Tool)
  </a>
 </p>
 
-![Evil-Devil](https://github.com/evildevil/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
+
 
 ***
 
