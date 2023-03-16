@@ -30,8 +30,6 @@ Evil Devill (Devil FaceBook Hacking Tool)
  </a>
 </p>
 
-![RN 509 X7](https://github.com/rn509/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
-
 ***
 
 # About Devil Tool
@@ -127,8 +125,6 @@ people we created Devil Framework password protection.
 <p><img src="https://img.shields.io/badge/YouTube-rn509-x7.svg"></p>
 </a>
 
-
-![rn509-x7](https://github.com/rn509/Devil/blob/master/ascets/youtube%20channel.png)
 
 # Devil Framework disclaimer
 
