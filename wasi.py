@@ -1,6 +1,6 @@
-# Tool : Wasii ( Facebook cloning tool)
-# Author : Waseem Akram ( hackerwasii )
-# github : https://github.com/evildevill
+# Tool : RN 509 X7 ( Facebook cloning tool)
+# Author : ( RN 509 X7 )
+# github : https://github.com/rn509
 # Note : we are not responsible for any misuse
 try:
     import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, mechanize, requests
@@ -51,7 +51,7 @@ def wasii(z):
         time.sleep(0.03)
 
 
-banner = '\n\x1b[1;95mTool By Hacker wasii\n We are not responsible for any \nillegal activity\n \n'
+banner = '\n\x1b[1;95mTool By RN 509 X7\n We are not responsible for any \nillegal activity\n \n'
 def tik():
     titik = [
      '.   ', '..  ', '... ']
@@ -121,7 +121,7 @@ def methodlogin():
         hopa.close()
         print '\n[\xe2\x9c\x93]  \x1b[1;91mLogged In Successfully.'
         time.sleep(1)
-        os.system('xdg-open https://www.youtube.com/channel/HackerWasii')
+        os.system('xdg-open https://www.youtube.com/channel/rn509-x7')
         os.system('python2 .wasii.py')
     elif hos == '0':
         exit()
