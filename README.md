@@ -5,7 +5,7 @@
 </p>
 
 
-Evil Devill (Devil FaceBook Hacking Tool)
+RN 509 X7 (Devil FaceBook Hacking Tool)
                 
 **username** `hacker`
 **password** `wasii`
@@ -19,18 +19,18 @@ Evil Devill (Devil FaceBook Hacking Tool)
   <a href="https://wikipedia.org/wiki/Shell_script">
     <img src="https://img.shields.io/badge/language-shell-green.svg">
  </a>
-  <a href="https://github.com/evildevill/Devil">
+  <a href="https://github.com/rn509/Devil">
       <img src="https://img.shields.io/badge/issue-0%20open-green">
   </a>
-  <a href="https://github.com/evildevill/Devil/wiki">
-      <img src="https://img.shields.io/badge/wiki-Devil-lightgrey">
+  <a href="https://github.com/rn509/Devil/wiki">
+      <img src="https://img.shields.io/badge/wiki-rn509-lightgrey">
  </a>
-  <a href="https://twitter.com/hackerwasii">
-    <img src="https://img.shields.io/badge/twitter-Hackerwasi-blue.svg">
+  <a href="https://twitter.com/afrizalrizky">
+    <img src="https://img.shields.io/badge/twitter-afrizalrizky-blue.svg">
  </a>
 </p>
 
-![Evil-Devil](https://github.com/evildevill/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
+![Evil-Devil](https://github.com/evildevil/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
 
 ***
 
@@ -70,7 +70,7 @@ operating systems - Kali Linux and Termux!
 
 > apt-get install git -y
 
-> git clone https://github.com/evildevill/Devil.git
+> git clone https://github.com/rn509/Devil.git
 
 > cd Devil
 
@@ -120,15 +120,6 @@ people we created Devil Framework password protection.
 
 
 
-
-# SubScribe Our YouTube Channel
-
-<a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ">
-<p><img src="https://img.shields.io/badge/YouTube-TheLinuxChoice-blue.svg"></p>
-</a>
-
-
-![devil-yellow](https://github.com/evildevill/Devil/blob/master/ascets/youtube%20channel.png)
 
 # Devil Framework disclaimer
 
