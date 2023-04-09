@@ -67,7 +67,7 @@ operating systems - Kali Linux and Termux!
 
 > apt-get install git -y
 
-> git clone https://github.com/rn509/Devil.git
+> git clone https://github.com/rn509/Devil
 
 > cd Devil
 
